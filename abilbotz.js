@@ -73,7 +73,7 @@ let lolkey = 'RIFQIBOTZ' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abi
 let zekskey = 'ardeuzaaa' // Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
 let ownername = 'Mad' //NAMA OWNER
 let owner = '6281414414403' // NOMOR OWNER
-let symbol = 'Mad'
+let symbol = '▶'
 let faketeks = `Ardeuz Bot` 
 
      //---Donasi---//
