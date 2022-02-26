@@ -453,7 +453,7 @@ const ftrol = {
                             surface : 1,
                             message: `${ucapanWaktu}, ${pushname}`, 
                             orderTitle: `Jangan Lupa Nafas Bro`,
-                            thumbnail: Ytabilbotz, //Gambarnye
+                            thumbnail: 'pee.jpg', //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
                           }
                         }
@@ -592,7 +592,7 @@ latensi = speed() - timestamp;
 run = process.uptime();
 lolot = `*${ucapanWaktu} ${pushname}*`
 img = fs.readFileSync('pee.jpg')
-ok = `｢ Indonesia Time ]
+ok = `[ Indonesia Time ]
 ❍ Date : ${date}
 ❍ Wib : ${Wib}
 ❍ Wita : ${Wita}
